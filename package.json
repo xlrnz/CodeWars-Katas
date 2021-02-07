@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "midtownNav.js",
   "devDependencies": {
-    "jest": "^26.6.3"
+    "ava": "^3.15.0"
   },
   "scripts": {
-    "test": "jest"
+    "test": "ava"
   },
   "author": "",
   "license": "ISC",
